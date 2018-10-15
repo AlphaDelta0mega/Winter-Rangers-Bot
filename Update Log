@@ -4,11 +4,13 @@ UPDATE LOG FOR WINTER RANGERS DISCORD BOT
 
 -Help command created
 -Help command categories created
--DM help preperation started
 -Feed command created
 -Bam command created
--Updated Userinfo
--Formatting updated
+-Formatting for commands updated (args, csecond)
+-Updated Userinfo to new format
+-Added more colors
+-DM help preperation started
+-Botinfo command started
 
 --Update 0.0.1 (Oct 13 2018)--
 
