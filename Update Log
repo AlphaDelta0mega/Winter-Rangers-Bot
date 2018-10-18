@@ -2,9 +2,10 @@ UPDATE LOG FOR WINTER RANGERS DISCORD BOT
 
 --Update 0.0.4 (Oct 17 2018)--
 
--Bot does not respond, currently trying to fix
--Added to food const
--Deleted some code to debug
+-Fixed bot not responding
+-Updated userinfo
+-Deleted code to debug (colors, mute, eat, feed
+-Botinfo command complete
 
 --Update 0.0.3 (Oct 15 2018)--
 
