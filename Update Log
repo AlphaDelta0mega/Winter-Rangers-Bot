@@ -1,5 +1,12 @@
 UPDATE LOG FOR WINTER RANGERS DISCORD BOT
 
+--Update 0.0.5 (Oct 23 2018)--
+
+-Created Mute command
+-Added responses
+-Trying to make seperate files for responses
+-Trying to create serverinfo
+
 --Update 0.0.4 (Oct 17 2018)--
 
 -Fixed bot not responding
