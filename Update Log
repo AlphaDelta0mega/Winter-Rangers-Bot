@@ -1,5 +1,15 @@
 UPDATE LOG FOR WINTER RANGERS DISCORD BOT
 
+--Update 0.0.6 (Oct 30 2018)--
+
+-Trying to fix mute command
+-Created kick command *works*
+-Created stats command *bot stats*
+-Created invite command *you can invite the bot to your server*
+-Created membercount command *displays all members minus bots*
+-Fixed serverinfo command
+-24/7 hosting down, trying to find a fix
+
 --Update 0.0.5 (Oct 23 2018)--
 
 -Created Mute command
@@ -11,7 +21,7 @@ UPDATE LOG FOR WINTER RANGERS DISCORD BOT
 
 -Fixed bot not responding
 -Updated userinfo
--Deleted code to debug (colors, mute, eat, feed
+-Deleted code to debug (colors, mute, eat, feed)
 -Botinfo command complete
 
 --Update 0.0.3 (Oct 15 2018)--
